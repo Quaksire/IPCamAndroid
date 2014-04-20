@@ -1,8 +1,20 @@
-C:\Users\Quaksire\Documents\NetBeansProjects\WebSocketServer\IPCamAndroid\IPCamAndroid\bin\classes.dex : \
-C:\Users\Quaksire\Documents\NetBeansProjects\WebSocketServer\IPCamAndroid\IPCamAndroid\bin\classes\com\ipcam\BuildConfig.class \
-C:\Users\Quaksire\Documents\NetBeansProjects\WebSocketServer\IPCamAndroid\IPCamAndroid\bin\classes\com\ipcam\MainActivity.class \
-C:\Users\Quaksire\Documents\NetBeansProjects\WebSocketServer\IPCamAndroid\IPCamAndroid\bin\classes\com\ipcam\R$attr.class \
-C:\Users\Quaksire\Documents\NetBeansProjects\WebSocketServer\IPCamAndroid\IPCamAndroid\bin\classes\com\ipcam\R$drawable.class \
-C:\Users\Quaksire\Documents\NetBeansProjects\WebSocketServer\IPCamAndroid\IPCamAndroid\bin\classes\com\ipcam\R$layout.class \
-C:\Users\Quaksire\Documents\NetBeansProjects\WebSocketServer\IPCamAndroid\IPCamAndroid\bin\classes\com\ipcam\R$string.class \
-C:\Users\Quaksire\Documents\NetBeansProjects\WebSocketServer\IPCamAndroid\IPCamAndroid\bin\classes\com\ipcam\R.class \
+C:\Users\Quaksire\Documents\NetBeansProjects\IPCamAndroid\IPCamAndroid\bin\classes.dex : \
+C:\Users\Quaksire\Documents\NetBeansProjects\IPCamAndroid\IPCamAndroid\bin\classes\com\ipcam\BuildConfig.class \
+C:\Users\Quaksire\Documents\NetBeansProjects\IPCamAndroid\IPCamAndroid\bin\classes\com\ipcam\MainActivity$1.class \
+C:\Users\Quaksire\Documents\NetBeansProjects\IPCamAndroid\IPCamAndroid\bin\classes\com\ipcam\MainActivity.class \
+C:\Users\Quaksire\Documents\NetBeansProjects\IPCamAndroid\IPCamAndroid\bin\classes\com\ipcam\R$attr.class \
+C:\Users\Quaksire\Documents\NetBeansProjects\IPCamAndroid\IPCamAndroid\bin\classes\com\ipcam\R$drawable.class \
+C:\Users\Quaksire\Documents\NetBeansProjects\IPCamAndroid\IPCamAndroid\bin\classes\com\ipcam\R$id.class \
+C:\Users\Quaksire\Documents\NetBeansProjects\IPCamAndroid\IPCamAndroid\bin\classes\com\ipcam\R$layout.class \
+C:\Users\Quaksire\Documents\NetBeansProjects\IPCamAndroid\IPCamAndroid\bin\classes\com\ipcam\R$string.class \
+C:\Users\Quaksire\Documents\NetBeansProjects\IPCamAndroid\IPCamAndroid\bin\classes\com\ipcam\R.class \
+C:\Users\Quaksire\Documents\NetBeansProjects\IPCamAndroid\IPCamAndroid\bin\classes\com\ipcam\ServerBroadCast.class \
+C:\Users\Quaksire\Documents\NetBeansProjects\IPCamAndroid\IPCamAndroid\bin\classes\com\ipcam\websocket\HybiParser$HappyDataInputStream.class \
+C:\Users\Quaksire\Documents\NetBeansProjects\IPCamAndroid\IPCamAndroid\bin\classes\com\ipcam\websocket\HybiParser$ProtocolError.class \
+C:\Users\Quaksire\Documents\NetBeansProjects\IPCamAndroid\IPCamAndroid\bin\classes\com\ipcam\websocket\HybiParser.class \
+C:\Users\Quaksire\Documents\NetBeansProjects\IPCamAndroid\IPCamAndroid\bin\classes\com\ipcam\websocket\WebSocketClient$1.class \
+C:\Users\Quaksire\Documents\NetBeansProjects\IPCamAndroid\IPCamAndroid\bin\classes\com\ipcam\websocket\WebSocketClient$2.class \
+C:\Users\Quaksire\Documents\NetBeansProjects\IPCamAndroid\IPCamAndroid\bin\classes\com\ipcam\websocket\WebSocketClient$3.class \
+C:\Users\Quaksire\Documents\NetBeansProjects\IPCamAndroid\IPCamAndroid\bin\classes\com\ipcam\websocket\WebSocketClient$Listener.class \
+C:\Users\Quaksire\Documents\NetBeansProjects\IPCamAndroid\IPCamAndroid\bin\classes\com\ipcam\websocket\WebSocketClient.class \
+C:\Users\Quaksire\Documents\NetBeansProjects\IPCamAndroid\IPCamAndroid\bin\classes\com\ipcam\WebSocketListener.class \

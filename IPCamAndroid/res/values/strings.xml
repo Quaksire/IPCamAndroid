@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">MainActivity</string>
+    
+    <string name="address">IP or address</string>
+    <string name="hint_address">192.168.0.1</string>
+    <string name="check">Check</string>
 </resources>

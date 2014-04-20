@@ -1,2 +1,2 @@
-C:\Users\Quaksire\Documents\NetBeansProjects\WebSocketServer\IPCamAndroid\IPCamAndroid\bin\AndroidManifest.xml : \
-C:\Users\Quaksire\Documents\NetBeansProjects\WebSocketServer\IPCamAndroid\IPCamAndroid\AndroidManifest.xml \
+C:\Users\Quaksire\Documents\NetBeansProjects\IPCamAndroid\IPCamAndroid\bin\AndroidManifest.xml : \
+C:\Users\Quaksire\Documents\NetBeansProjects\IPCamAndroid\IPCamAndroid\AndroidManifest.xml \
