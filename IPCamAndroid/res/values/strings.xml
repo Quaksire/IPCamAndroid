@@ -5,4 +5,5 @@
     <string name="address">IP or address</string>
     <string name="hint_address">192.168.0.1</string>
     <string name="check">Check</string>
+    <string name="timeline">Timeline</string>
 </resources>

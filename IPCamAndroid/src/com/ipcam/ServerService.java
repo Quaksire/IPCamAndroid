@@ -20,7 +20,7 @@ public class ServerService extends IntentService {
     
     public ServerService(){
         super(_URI);
-    }
+    }    
 
     @Override
     protected void onHandleIntent(Intent intent) {
